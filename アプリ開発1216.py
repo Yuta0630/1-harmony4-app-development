@@ -1,5 +1,7 @@
-
+import matplotlib
+matplotlib.use("Agg")
 import matplotlib.pyplot as plt
+
 
 import streamlit as st
 import requests
@@ -317,4 +319,3 @@ if st.button("■クリックして音楽を提案■"):
         """,
         unsafe_allow_html=True,
     )
-
