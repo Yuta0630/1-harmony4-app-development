@@ -1,3 +1,3 @@
-GPT_API_KEY=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
-CLIENT_ID=89cef7dc100d4199b9f320ee47655774
-CLIENT_SECRET=c63119ab71664937914ada066e223b4a
+streamlit==1.34.0
+opencv-python-headless==4.9.0.80
+pillow==10.3.0
