@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 from datetime import datetime
 import pandas as pd
-import matplotlib.pyplot as plt  
+import matplotlib.pyplot as plt
 
 # GPT APIキーとSpotify APIのクライアントIDとクライアントシークレット
 GPT_API_KEY = "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"
